@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitf-cards/static/css/main.b222bc6f.css",
+    "main.js": "/gitf-cards/static/js/main.d1fdb95d.js",
+    "static/js/787.f06719b9.chunk.js": "/gitf-cards/static/js/787.f06719b9.chunk.js",
+    "index.html": "/gitf-cards/index.html",
+    "main.b222bc6f.css.map": "/gitf-cards/static/css/main.b222bc6f.css.map",
+    "main.d1fdb95d.js.map": "/gitf-cards/static/js/main.d1fdb95d.js.map",
+    "787.f06719b9.chunk.js.map": "/gitf-cards/static/js/787.f06719b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b222bc6f.css",
+    "static/js/main.d1fdb95d.js"
+  ]
+}
