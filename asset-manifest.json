@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/gitf-cards/static/css/main.b222bc6f.css",
-    "main.js": "/gitf-cards/static/js/main.d1fdb95d.js",
-    "static/js/787.f06719b9.chunk.js": "/gitf-cards/static/js/787.f06719b9.chunk.js",
-    "index.html": "/gitf-cards/index.html",
-    "main.b222bc6f.css.map": "/gitf-cards/static/css/main.b222bc6f.css.map",
-    "main.d1fdb95d.js.map": "/gitf-cards/static/js/main.d1fdb95d.js.map",
-    "787.f06719b9.chunk.js.map": "/gitf-cards/static/js/787.f06719b9.chunk.js.map"
+    "main.css": "/kodecamp-int-task-4%20/static/css/main.18177de3.css",
+    "main.js": "/kodecamp-int-task-4%20/static/js/main.205d18f9.js",
+    "static/js/787.15ecac12.chunk.js": "/kodecamp-int-task-4%20/static/js/787.15ecac12.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/kodecamp-int-task-4%20/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/kodecamp-int-task-4%20/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/kodecamp-int-task-4%20/index.html",
+    "main.18177de3.css.map": "/kodecamp-int-task-4%20/static/css/main.18177de3.css.map",
+    "main.205d18f9.js.map": "/kodecamp-int-task-4%20/static/js/main.205d18f9.js.map",
+    "787.15ecac12.chunk.js.map": "/kodecamp-int-task-4%20/static/js/787.15ecac12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b222bc6f.css",
-    "static/js/main.d1fdb95d.js"
+    "static/css/main.18177de3.css",
+    "static/js/main.205d18f9.js"
   ]
 }
